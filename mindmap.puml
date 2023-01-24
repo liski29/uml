@@ -1,0 +1,14 @@
+<style>
+node {
+    RoundCorner 0
+    MinimumWidth 400
+}
+leafNode {
+    MaximumWidth 1000   
+}
+arrow {
+    LineStyle 4
+    LineThickness 0.5
+    LineColor green
+}
+</style>
