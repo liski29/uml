@@ -1,0 +1,4 @@
+@startuml
+!defineurl https://raw.githubusercontent.com/liski29/uml/refs/heads/main/test.puml
+header тест
+@enduml
