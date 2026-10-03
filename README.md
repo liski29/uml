@@ -40,6 +40,9 @@ https://github.com/JozoVilcek/gitbook-plugin-mermaid
 
 https://github.com/miao1007/gitbook-plugin-mermaid-cli
 
+http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/liski29/uml/blob/main/test.puml
+
+
 {% plauntuml %}
 f--b
 {% enduml%}
